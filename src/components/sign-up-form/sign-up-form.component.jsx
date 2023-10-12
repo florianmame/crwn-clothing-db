@@ -96,7 +96,7 @@ const SignUpForm = () => {
                 type="submit"
                 buttonType={'google'}
                 >
-                    Sign up
+                    Sign Up
                 </Button>
             </form>
         </div>
